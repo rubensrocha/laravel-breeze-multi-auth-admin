@@ -28,7 +28,7 @@
             </header>
 
             <!-- Page Content -->
-            <main class="bg-indigo-500">
+            <main>
                 {{ $slot }}
             </main>
         </div>
