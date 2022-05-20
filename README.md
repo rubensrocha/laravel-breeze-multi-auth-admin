@@ -1,7 +1,8 @@
 <p align="center">
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a href="https://github.com/rubensrocha/laravel-breeze-multi-auth-admin/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/rubensrocha/laravel-breeze-multi-auth-admin"></a>
+<a href="https://github.com/rubensrocha/laravel-breeze-multi-auth-admin/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rubensrocha/laravel-breeze-multi-auth-admin"></a>
+<a href="https://packagist.org/packages/rubensrocha/laravel-breeze-multi-auth-admin"><img src="https://img.shields.io/packagist/dt/rubensrocha/laravel-breeze-multi-auth-admin" alt="Total Downloads"></a>
+<a href="https://github.com/rubensrocha/laravel-breeze-multi-auth-admin/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/rubensrocha/laravel-breeze-multi-auth-admin"></a>
 </p>
 
 ## About This Repository
