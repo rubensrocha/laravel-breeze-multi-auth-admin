@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "rubensrocha/laravel-breeze-multi-auth-admin",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Multi auth admin with Laravel Breeze",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {

@@ -27,7 +27,25 @@ Unlike many tutorials that teach you how to achieve this goal, this repository i
 - Confirm Password
 - Verify Email
 
-## Included
+## Installation
+
+Clone this repo
+
+    git clone https://github.com/laravel/breeze.git
+
+Install packages
+
+    composer install
+
+Run migrations without admins/users
+
+    php artisan migrate
+
+Or run migrations with admins/users
+
+    php artisan migrate --seed
+
+## References
 - [Laravel 9](https://laravel.com)
 - [Laravel Breeze](https://laravel.com/docs/9.x/starter-kits#laravel-breeze)
 
