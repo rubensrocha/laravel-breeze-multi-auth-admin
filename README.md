@@ -33,6 +33,14 @@ Clone this repo
 
     git clone https://github.com/laravel/breeze.git
 
+Create env file and set up your DB connection
+
+    cp .env.example .env
+
+Generate key
+
+    php artisan key:generate
+
 Install packages
 
     composer install
@@ -44,6 +52,8 @@ Run migrations without admins/users
 Or run migrations with admins/users
 
     php artisan migrate --seed
+
+Default password for admin and users is "password"
 
 ## References
 - [Laravel 9](https://laravel.com)
